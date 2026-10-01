@@ -1,0 +1,54 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+10.236.243.155    PCTDOCVM01.ctd.tn.gov.in
+10.236.243.155    ctd.tn.gov.in
+10.235.243.210    PCTMDSVM02.ctd.tn.gov.in
+10.236.230.77     DCTBDTPVM01.ctd.tn.gov.in
+10.236.230.70     DCTALFSR01.ctd.tn.gov.in
+10.236.211.103    ctdems.tn.gov.in
+10.236.243.200    mail.ctd.tn.gov.in
+10.236.204.136    neo4j.ctd.tn.gov.in
+10.236.237.74     drs.ctd.tn.gov.in
+172.31.254.121    bomisjas.internal.gst.gov.in
+172.31.254.54     graphapp.internal.gst.gov.in
+172.31.254.64     bifa.internal.gst.gov.in
+172.31.255.30      analytics-qlik.internal.gst.gov.in
+#172.31.254.160    boweb.internal.gst.gov.in
+#172.31.254.161    boweb.internal.gst.gov.in
+172.31.254.10     ns1.internal.gst.gov.in
+172.31.254.138    ns2.internal.gst.gov.in
+#172.31.254.152    boapi.internal.gst.gov.in
+#172.31.254.153    boapi.internal.gst.gov.in
+172.31.254.166    paymentapi.internal.gst.gov.in
+172.31.254.167    paymentapi.internal.gst.gov.in
+172.31.254.169    bofiles.internal.gst.gov.in
+172.31.254.157    botutorial.internal.gst.gov.in
+172.31.254.162    bomis.internal.gst.gov.in
+172.31.254.163    bomis.internal.gst.gov.in
+172.31.254.52     analytics.internal.gst.gov.in
+172.31.254.189    boreturns2.internal.gst.gov.in
+172.31.255.14     bifafiles.internal.gst.gov.in
+172.31.254.120    analyticsreset.internal.gst.gov.in
+172.31.255.21     analytics.ewb.internal.gst.gov.in
+172.31.254.143    servicedesk.internal.gst.gov.in
+172.31.255.124    bomisqlik.internal.gst.gov.in
+172.31.255.167    bomisqlik.internal.gst.gov.in
